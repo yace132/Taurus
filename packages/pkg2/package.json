@@ -1,6 +1,6 @@
 {
-  "name": "pkg2",
-  "version": "0.0.2",
+  "name": "taurus-pkg2",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "yace132 <10000reset@gmail.com>",
   "homepage": "https://github.com/yace132/Taurus#readme",
@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "voting-contracts-abi": "^1.0.1"
-  }
+  },
+  "gitHead": "21f4e87e2006c0f08907585963af6dfe0e8af88e"
 }
