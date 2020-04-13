@@ -1,0 +1,29 @@
+{
+  "name": "pkg1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "yace132 <10000reset@gmail.com>",
+  "homepage": "https://github.com/yace132/Taurus#readme",
+  "license": "ISC",
+  "main": "lib/pkg1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yace132/Taurus.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/yace132/Taurus/issues"
+  },
+  "dependencies": {
+    "ethereum-voting-helpers": "^1.0.3"
+  }
+}
